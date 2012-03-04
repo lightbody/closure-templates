@@ -1,0 +1,7 @@
+This repo is simply a mirror of the original SVN hosted on Google Code:
+
+http://code.google.com/p/closure-templates/
+
+The only difference is that it contains a working Maven build + this readme!
+
+The Maven artifacts will be released to the Central repo under the groupId net.lightbody.closure, at least until the Maven build is officially part of the Closure Templates project.
